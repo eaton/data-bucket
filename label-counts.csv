@@ -1,0 +1,829 @@
+model,technique,labelGroup,label,total
+gemma2,prompted,existing,<none>,224
+gemma2,prompted,existing,Senior careers,115
+gemma2,prompted,existing,"Articles, videos & educational resources",100
+gemma2,prompted,existing,UX Strategy & Management,220
+gemma2,prompted,existing,UX Writing,15
+gemma2,prompted,existing,Tools & apps,182
+gemma2,prompted,existing,UI Design,136
+gemma2,prompted,existing,UX Research,56
+gemma2,prompted,existing,UX Design,606
+gemma2,prompted,existing,Junior careers,313
+gemma2,prompted,proposed,<none>,224
+gemma2,prompted,proposed,Senior careers,115
+gemma2,prompted,proposed,"Articles, videos & educational resources",100
+gemma2,prompted,proposed,UX Strategy & Management,220
+gemma2,prompted,proposed,UX Writing,15
+gemma2,prompted,proposed,Tools & apps,182
+gemma2,prompted,proposed,UI Design,136
+gemma2,prompted,proposed,UX Research,56
+gemma2,prompted,proposed,UX Design,606
+gemma2,prompted,proposed,Junior careers,313
+gemma2-mini,prompted,existing,<none>,83
+gemma2-mini,prompted,existing,Senior careers,96
+gemma2-mini,prompted,existing,UX Strategy & Management,27
+gemma2-mini,prompted,existing,UX Writing,3
+gemma2-mini,prompted,existing,Tools & apps,20
+gemma2-mini,prompted,existing,UI Design,9
+gemma2-mini,prompted,existing,UX Research,1196
+gemma2-mini,prompted,existing,UX Design,484
+gemma2-mini,prompted,existing,Junior careers,49
+gemma2-mini,prompted,proposed,<none>,83
+gemma2-mini,prompted,proposed,Senior careers,96
+gemma2-mini,prompted,proposed,UX Strategy & Management,27
+gemma2-mini,prompted,proposed,UX Writing,3
+gemma2-mini,prompted,proposed,Tools & apps,20
+gemma2-mini,prompted,proposed,UI Design,9
+gemma2-mini,prompted,proposed,UX Research,1196
+gemma2-mini,prompted,proposed,UX Design,484
+gemma2-mini,prompted,proposed,Junior careers,49
+google-text,kmeans,clustered,cluster-0,182
+google-text,kmeans,clustered,cluster-1,134
+google-text,kmeans,clustered,cluster-2,150
+google-text,kmeans,clustered,cluster-3,206
+google-text,kmeans,clustered,cluster-4,248
+google-text,kmeans,clustered,cluster-5,215
+google-text,kmeans,clustered,cluster-6,195
+google-text,kmeans,clustered,cluster-7,212
+google-text,kmeans,clustered,cluster-8,247
+google-text,kmeans,clustered,cluster-9,208
+google-text,proximity,existing,Senior careers,345
+google-text,proximity,existing,"Articles, videos & educational resources",29
+google-text,proximity,existing,UX Strategy & Management,114
+google-text,proximity,existing,UX Writing,86
+google-text,proximity,existing,Tools & apps,129
+google-text,proximity,existing,UI Design,282
+google-text,proximity,existing,UX Research,107
+google-text,proximity,existing,UX Design,581
+google-text,proximity,existing,Junior careers,294
+google-text,proximity,proposed,"Articles, videos & educational resources",21
+google-text,proximity,proposed,How to do UI Design,298
+google-text,proximity,proposed,Examples and inspiration,138
+google-text,proximity,proposed,How to do Strategy & Research,113
+google-text,proximity,proposed,How to do IA & Content,36
+google-text,proximity,proposed,Working with other people and career growth,315
+google-text,proximity,proposed,Portfolio and resume discussion,102
+google-text,proximity,proposed,Feedback request,287
+google-text,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",98
+google-text,proximity,proposed,How to Freelance,31
+google-text,proximity,proposed,Job search & hiring,528
+gpt-4o,prompted,existing,<none>,256
+gpt-4o,prompted,existing,Senior careers,239
+gpt-4o,prompted,existing,"Articles, videos & educational resources",111
+gpt-4o,prompted,existing,UX Strategy & Management,150
+gpt-4o,prompted,existing,UX Writing,12
+gpt-4o,prompted,existing,Tools & apps,176
+gpt-4o,prompted,existing,UI Design,125
+gpt-4o,prompted,existing,UX Research,93
+gpt-4o,prompted,existing,UX Design,618
+gpt-4o,prompted,existing,Junior careers,187
+gpt-4o,prompted,proposed,<none>,256
+gpt-4o,prompted,proposed,Senior careers,239
+gpt-4o,prompted,proposed,"Articles, videos & educational resources",111
+gpt-4o,prompted,proposed,UX Strategy & Management,150
+gpt-4o,prompted,proposed,UX Writing,12
+gpt-4o,prompted,proposed,Tools & apps,176
+gpt-4o,prompted,proposed,UI Design,125
+gpt-4o,prompted,proposed,UX Research,93
+gpt-4o,prompted,proposed,UX Design,618
+gpt-4o,prompted,proposed,Junior careers,187
+gpt-4o-mini,prompted,existing,<none>,492
+gpt-4o-mini,prompted,existing,Senior careers,372
+gpt-4o-mini,prompted,existing,"Articles, videos & educational resources",76
+gpt-4o-mini,prompted,existing,UX Strategy & Management,230
+gpt-4o-mini,prompted,existing,UX Writing,16
+gpt-4o-mini,prompted,existing,Tools & apps,173
+gpt-4o-mini,prompted,existing,UI Design,102
+gpt-4o-mini,prompted,existing,UX Research,103
+gpt-4o-mini,prompted,existing,UX Design,299
+gpt-4o-mini,prompted,existing,Junior careers,104
+gpt-4o-mini,prompted,proposed,<none>,492
+gpt-4o-mini,prompted,proposed,Senior careers,372
+gpt-4o-mini,prompted,proposed,"Articles, videos & educational resources",76
+gpt-4o-mini,prompted,proposed,UX Strategy & Management,230
+gpt-4o-mini,prompted,proposed,UX Writing,16
+gpt-4o-mini,prompted,proposed,Tools & apps,173
+gpt-4o-mini,prompted,proposed,UI Design,102
+gpt-4o-mini,prompted,proposed,UX Research,103
+gpt-4o-mini,prompted,proposed,UX Design,299
+gpt-4o-mini,prompted,proposed,Junior careers,104
+hermes3-mini,kmeans,clustered,cluster-0,313
+hermes3-mini,kmeans,clustered,cluster-1,136
+hermes3-mini,kmeans,clustered,cluster-2,197
+hermes3-mini,kmeans,clustered,cluster-3,192
+hermes3-mini,kmeans,clustered,cluster-4,364
+hermes3-mini,kmeans,clustered,cluster-5,117
+hermes3-mini,kmeans,clustered,cluster-6,73
+hermes3-mini,kmeans,clustered,cluster-7,97
+hermes3-mini,kmeans,clustered,cluster-8,368
+hermes3-mini,kmeans,clustered,cluster-9,140
+hermes3-mini,prompted,existing,<none>,461
+hermes3-mini,prompted,existing,Senior careers,152
+hermes3-mini,prompted,existing,"Articles, videos & educational resources",8
+hermes3-mini,prompted,existing,UX Strategy & Management,4
+hermes3-mini,prompted,existing,UX Writing,14
+hermes3-mini,prompted,existing,Tools & apps,115
+hermes3-mini,prompted,existing,UI Design,91
+hermes3-mini,prompted,existing,UX Research,491
+hermes3-mini,prompted,existing,UX Design,610
+hermes3-mini,prompted,existing,Junior careers,21
+hermes3-mini,prompted,proposed,<none>,461
+hermes3-mini,prompted,proposed,Senior careers,152
+hermes3-mini,prompted,proposed,"Articles, videos & educational resources",8
+hermes3-mini,prompted,proposed,UX Strategy & Management,4
+hermes3-mini,prompted,proposed,UX Writing,14
+hermes3-mini,prompted,proposed,Tools & apps,115
+hermes3-mini,prompted,proposed,UI Design,91
+hermes3-mini,prompted,proposed,UX Research,491
+hermes3-mini,prompted,proposed,UX Design,610
+hermes3-mini,prompted,proposed,Junior careers,21
+hermes3-mini,proximity,existing,Senior careers,3
+hermes3-mini,proximity,existing,"Articles, videos & educational resources",22
+hermes3-mini,proximity,existing,UX Strategy & Management,1
+hermes3-mini,proximity,existing,UX Writing,4
+hermes3-mini,proximity,existing,Tools & apps,480
+hermes3-mini,proximity,existing,UI Design,435
+hermes3-mini,proximity,existing,UX Research,9
+hermes3-mini,proximity,existing,UX Design,11
+hermes3-mini,proximity,existing,Junior careers,1002
+hermes3-mini,proximity,proposed,"Articles, videos & educational resources",76
+hermes3-mini,proximity,proposed,How to do UI Design,4
+hermes3-mini,proximity,proposed,Examples and inspiration,221
+hermes3-mini,proximity,proposed,How to do Strategy & Research,268
+hermes3-mini,proximity,proposed,Working with other people and career growth,117
+hermes3-mini,proximity,proposed,Portfolio and resume discussion,29
+hermes3-mini,proximity,proposed,Feedback request,27
+hermes3-mini,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",1217
+hermes3-mini,proximity,proposed,How to Freelance,6
+hermes3-mini,proximity,proposed,Job search & hiring,2
+human,human,existing,Senior careers,362
+human,human,existing,Answers from seniors only,116
+human,human,existing,"Articles, videos & educational resources",134
+human,human,existing,Mod Announcement,3
+human,human,existing,Sub policies,7
+human,human,existing,UX Strategy & Management,277
+human,human,existing,UX Writing,22
+human,human,existing,Tools & apps,190
+human,human,existing,UI Design,238
+human,human,existing,UX Research,156
+human,human,existing,UX Design,416
+human,human,existing,Junior careers,4
+human,human,proposed,School or Entry-Level Question,1
+human,human,proposed,Feedback request,13
+human,human,proposed,Job search & hiring,41
+llama31,kmeans,clustered,cluster-0,3
+llama31,kmeans,clustered,cluster-1,459
+llama31,kmeans,clustered,cluster-2,131
+llama31,kmeans,clustered,cluster-3,399
+llama31,kmeans,clustered,cluster-4,231
+llama31,kmeans,clustered,cluster-5,117
+llama31,kmeans,clustered,cluster-6,87
+llama31,kmeans,clustered,cluster-7,424
+llama31,kmeans,clustered,cluster-8,50
+llama31,kmeans,clustered,cluster-9,96
+llama31,prompted,existing,<none>,69
+llama31,prompted,existing,Senior careers,323
+llama31,prompted,existing,"Articles, videos & educational resources",298
+llama31,prompted,existing,UX Strategy & Management,135
+llama31,prompted,existing,UX Writing,11
+llama31,prompted,existing,Tools & apps,207
+llama31,prompted,existing,UI Design,74
+llama31,prompted,existing,UX Research,129
+llama31,prompted,existing,UX Design,563
+llama31,prompted,existing,Junior careers,158
+llama31,prompted,proposed,<none>,69
+llama31,prompted,proposed,Senior careers,323
+llama31,prompted,proposed,"Articles, videos & educational resources",298
+llama31,prompted,proposed,UX Strategy & Management,135
+llama31,prompted,proposed,UX Writing,11
+llama31,prompted,proposed,Tools & apps,207
+llama31,prompted,proposed,UI Design,74
+llama31,prompted,proposed,UX Research,129
+llama31,prompted,proposed,UX Design,563
+llama31,prompted,proposed,Junior careers,158
+llama31,proximity,existing,UX Strategy & Management,500
+llama31,proximity,existing,UX Writing,33
+llama31,proximity,existing,Tools & apps,366
+llama31,proximity,existing,UI Design,13
+llama31,proximity,existing,UX Research,46
+llama31,proximity,existing,UX Design,76
+llama31,proximity,existing,Junior careers,933
+llama31,proximity,proposed,"Articles, videos & educational resources",7
+llama31,proximity,proposed,How to do UI Design,18
+llama31,proximity,proposed,Examples and inspiration,470
+llama31,proximity,proposed,How to do Strategy & Research,507
+llama31,proximity,proposed,How to do IA & Content,47
+llama31,proximity,proposed,Working with other people and career growth,21
+llama31,proximity,proposed,Portfolio and resume discussion,180
+llama31,proximity,proposed,Feedback request,255
+llama31,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",2
+llama31,proximity,proposed,How to Freelance,44
+llama31,proximity,proposed,Job search & hiring,416
+llama31-mini,kmeans,clustered,cluster-0,184
+llama31-mini,kmeans,clustered,cluster-1,326
+llama31-mini,kmeans,clustered,cluster-2,46
+llama31-mini,kmeans,clustered,cluster-3,138
+llama31-mini,kmeans,clustered,cluster-4,188
+llama31-mini,kmeans,clustered,cluster-5,135
+llama31-mini,kmeans,clustered,cluster-6,397
+llama31-mini,kmeans,clustered,cluster-7,385
+llama31-mini,kmeans,clustered,cluster-8,104
+llama31-mini,kmeans,clustered,cluster-9,94
+llama31-mini,prompted,existing,<none>,133
+llama31-mini,prompted,existing,Senior careers,314
+llama31-mini,prompted,existing,"Articles, videos & educational resources",13
+llama31-mini,prompted,existing,UX Strategy & Management,6
+llama31-mini,prompted,existing,UX Writing,12
+llama31-mini,prompted,existing,Tools & apps,122
+llama31-mini,prompted,existing,UI Design,72
+llama31-mini,prompted,existing,UX Research,339
+llama31-mini,prompted,existing,UX Design,867
+llama31-mini,prompted,existing,Junior careers,89
+llama31-mini,prompted,proposed,<none>,133
+llama31-mini,prompted,proposed,Senior careers,314
+llama31-mini,prompted,proposed,"Articles, videos & educational resources",13
+llama31-mini,prompted,proposed,UX Strategy & Management,6
+llama31-mini,prompted,proposed,UX Writing,12
+llama31-mini,prompted,proposed,Tools & apps,122
+llama31-mini,prompted,proposed,UI Design,72
+llama31-mini,prompted,proposed,UX Research,339
+llama31-mini,prompted,proposed,UX Design,867
+llama31-mini,prompted,proposed,Junior careers,89
+llama31-mini,proximity,existing,Senior careers,3
+llama31-mini,proximity,existing,UX Strategy & Management,3
+llama31-mini,proximity,existing,UX Writing,27
+llama31-mini,proximity,existing,Tools & apps,153
+llama31-mini,proximity,existing,UI Design,390
+llama31-mini,proximity,existing,UX Research,1
+llama31-mini,proximity,existing,UX Design,608
+llama31-mini,proximity,existing,Junior careers,782
+llama31-mini,proximity,proposed,"Articles, videos & educational resources",4
+llama31-mini,proximity,proposed,How to do UI Design,1
+llama31-mini,proximity,proposed,Examples and inspiration,1180
+llama31-mini,proximity,proposed,How to do Strategy & Research,126
+llama31-mini,proximity,proposed,How to do IA & Content,1
+llama31-mini,proximity,proposed,Working with other people and career growth,73
+llama31-mini,proximity,proposed,Portfolio and resume discussion,24
+llama31-mini,proximity,proposed,Feedback request,82
+llama31-mini,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",185
+llama31-mini,proximity,proposed,How to Freelance,16
+llama31-mini,proximity,proposed,Job search & hiring,275
+llama32-micro,kmeans,clustered,cluster-0,105
+llama32-micro,kmeans,clustered,cluster-1,396
+llama32-micro,kmeans,clustered,cluster-2,242
+llama32-micro,kmeans,clustered,cluster-3,334
+llama32-micro,kmeans,clustered,cluster-4,241
+llama32-micro,kmeans,clustered,cluster-5,185
+llama32-micro,kmeans,clustered,cluster-6,158
+llama32-micro,kmeans,clustered,cluster-7,43
+llama32-micro,kmeans,clustered,cluster-8,148
+llama32-micro,kmeans,clustered,cluster-9,145
+llama32-micro,prompted,existing,<none>,32
+llama32-micro,prompted,existing,Senior careers,19
+llama32-micro,prompted,existing,UX Strategy & Management,43
+llama32-micro,prompted,existing,UX Writing,1
+llama32-micro,prompted,existing,Tools & apps,3
+llama32-micro,prompted,existing,UX Design,1869
+llama32-micro,prompted,proposed,<none>,32
+llama32-micro,prompted,proposed,Senior careers,19
+llama32-micro,prompted,proposed,UX Strategy & Management,43
+llama32-micro,prompted,proposed,UX Writing,1
+llama32-micro,prompted,proposed,Tools & apps,3
+llama32-micro,prompted,proposed,UX Design,1869
+llama32-micro,proximity,existing,Senior careers,284
+llama32-micro,proximity,existing,"Articles, videos & educational resources",1
+llama32-micro,proximity,existing,UX Strategy & Management,16
+llama32-micro,proximity,existing,UX Writing,1
+llama32-micro,proximity,existing,Tools & apps,178
+llama32-micro,proximity,existing,UI Design,23
+llama32-micro,proximity,existing,UX Research,179
+llama32-micro,proximity,existing,UX Design,3
+llama32-micro,proximity,existing,Junior careers,1282
+llama32-micro,proximity,proposed,"Articles, videos & educational resources",50
+llama32-micro,proximity,proposed,How to do UI Design,266
+llama32-micro,proximity,proposed,Examples and inspiration,92
+llama32-micro,proximity,proposed,How to do Strategy & Research,1169
+llama32-micro,proximity,proposed,How to do IA & Content,40
+llama32-micro,proximity,proposed,Working with other people and career growth,55
+llama32-micro,proximity,proposed,Portfolio and resume discussion,8
+llama32-micro,proximity,proposed,Feedback request,127
+llama32-micro,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",48
+llama32-micro,proximity,proposed,How to Freelance,40
+llama32-micro,proximity,proposed,Job search & hiring,72
+llama32-nano,kmeans,clustered,cluster-0,5
+llama32-nano,kmeans,clustered,cluster-1,388
+llama32-nano,kmeans,clustered,cluster-2,138
+llama32-nano,kmeans,clustered,cluster-3,321
+llama32-nano,kmeans,clustered,cluster-4,43
+llama32-nano,kmeans,clustered,cluster-5,240
+llama32-nano,kmeans,clustered,cluster-6,144
+llama32-nano,kmeans,clustered,cluster-7,404
+llama32-nano,kmeans,clustered,cluster-8,120
+llama32-nano,kmeans,clustered,cluster-9,194
+llama32-nano,prompted,existing,<none>,1967
+llama32-nano,prompted,proposed,<none>,1967
+llama32-nano,proximity,existing,Senior careers,100
+llama32-nano,proximity,existing,"Articles, videos & educational resources",1
+llama32-nano,proximity,existing,UX Writing,4
+llama32-nano,proximity,existing,Tools & apps,1629
+llama32-nano,proximity,existing,UI Design,19
+llama32-nano,proximity,existing,UX Research,81
+llama32-nano,proximity,existing,UX Design,4
+llama32-nano,proximity,existing,Junior careers,129
+llama32-nano,proximity,proposed,"Articles, videos & educational resources",217
+llama32-nano,proximity,proposed,How to do UI Design,329
+llama32-nano,proximity,proposed,Examples and inspiration,373
+llama32-nano,proximity,proposed,How to do Strategy & Research,466
+llama32-nano,proximity,proposed,How to do IA & Content,42
+llama32-nano,proximity,proposed,Working with other people and career growth,195
+llama32-nano,proximity,proposed,Portfolio and resume discussion,7
+llama32-nano,proximity,proposed,Feedback request,230
+llama32-nano,proximity,proposed,How to Freelance,106
+llama32-nano,proximity,proposed,Job search & hiring,2
+mxbai,kmeans,clustered,cluster-0,153
+mxbai,kmeans,clustered,cluster-1,256
+mxbai,kmeans,clustered,cluster-2,284
+mxbai,kmeans,clustered,cluster-3,220
+mxbai,kmeans,clustered,cluster-4,170
+mxbai,kmeans,clustered,cluster-5,275
+mxbai,kmeans,clustered,cluster-6,150
+mxbai,kmeans,clustered,cluster-7,103
+mxbai,kmeans,clustered,cluster-8,250
+mxbai,kmeans,clustered,cluster-9,136
+mxbai,proximity,existing,Senior careers,151
+mxbai,proximity,existing,"Articles, videos & educational resources",117
+mxbai,proximity,existing,UX Strategy & Management,102
+mxbai,proximity,existing,UX Writing,494
+mxbai,proximity,existing,Tools & apps,289
+mxbai,proximity,existing,UI Design,80
+mxbai,proximity,existing,UX Research,81
+mxbai,proximity,existing,UX Design,103
+mxbai,proximity,existing,Junior careers,550
+mxbai,proximity,proposed,"Articles, videos & educational resources",16
+mxbai,proximity,proposed,How to do UI Design,40
+mxbai,proximity,proposed,Examples and inspiration,120
+mxbai,proximity,proposed,How to do Strategy & Research,30
+mxbai,proximity,proposed,How to do IA & Content,12
+mxbai,proximity,proposed,Working with other people and career growth,193
+mxbai,proximity,proposed,Portfolio and resume discussion,48
+mxbai,proximity,proposed,Feedback request,940
+mxbai,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",164
+mxbai,proximity,proposed,How to Freelance,26
+mxbai,proximity,proposed,Job search & hiring,378
+mxbai-query,kmeans,clustered,cluster-0,300
+mxbai-query,kmeans,clustered,cluster-1,214
+mxbai-query,kmeans,clustered,cluster-2,151
+mxbai-query,kmeans,clustered,cluster-3,188
+mxbai-query,kmeans,clustered,cluster-4,195
+mxbai-query,kmeans,clustered,cluster-5,188
+mxbai-query,kmeans,clustered,cluster-6,303
+mxbai-query,kmeans,clustered,cluster-7,181
+mxbai-query,kmeans,clustered,cluster-8,133
+mxbai-query,kmeans,clustered,cluster-9,144
+mxbai-query,proximity,existing,Senior careers,431
+mxbai-query,proximity,existing,"Articles, videos & educational resources",73
+mxbai-query,proximity,existing,UX Strategy & Management,111
+mxbai-query,proximity,existing,UX Writing,470
+mxbai-query,proximity,existing,Tools & apps,304
+mxbai-query,proximity,existing,UI Design,136
+mxbai-query,proximity,existing,UX Research,95
+mxbai-query,proximity,existing,UX Design,189
+mxbai-query,proximity,existing,Junior careers,158
+mxbai-query,proximity,proposed,"Articles, videos & educational resources",28
+mxbai-query,proximity,proposed,How to do UI Design,189
+mxbai-query,proximity,proposed,Examples and inspiration,280
+mxbai-query,proximity,proposed,How to do Strategy & Research,55
+mxbai-query,proximity,proposed,How to do IA & Content,30
+mxbai-query,proximity,proposed,Working with other people and career growth,345
+mxbai-query,proximity,proposed,Portfolio and resume discussion,54
+mxbai-query,proximity,proposed,Feedback request,381
+mxbai-query,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",171
+mxbai-query,proximity,proposed,How to Freelance,39
+mxbai-query,proximity,proposed,Job search & hiring,395
+nomic-classify,kmeans,clustered,cluster-0,208
+nomic-classify,kmeans,clustered,cluster-1,186
+nomic-classify,kmeans,clustered,cluster-2,168
+nomic-classify,kmeans,clustered,cluster-3,237
+nomic-classify,kmeans,clustered,cluster-4,216
+nomic-classify,kmeans,clustered,cluster-5,233
+nomic-classify,kmeans,clustered,cluster-6,263
+nomic-classify,kmeans,clustered,cluster-7,259
+nomic-classify,kmeans,clustered,cluster-8,117
+nomic-classify,kmeans,clustered,cluster-9,110
+nomic-classify,proximity,existing,Senior careers,53
+nomic-classify,proximity,existing,"Articles, videos & educational resources",67
+nomic-classify,proximity,existing,UX Strategy & Management,257
+nomic-classify,proximity,existing,UX Writing,183
+nomic-classify,proximity,existing,Tools & apps,259
+nomic-classify,proximity,existing,UI Design,309
+nomic-classify,proximity,existing,UX Research,163
+nomic-classify,proximity,existing,UX Design,195
+nomic-classify,proximity,existing,Junior careers,481
+nomic-classify,proximity,proposed,"Articles, videos & educational resources",12
+nomic-classify,proximity,proposed,How to do UI Design,189
+nomic-classify,proximity,proposed,Examples and inspiration,247
+nomic-classify,proximity,proposed,How to do Strategy & Research,64
+nomic-classify,proximity,proposed,How to do IA & Content,32
+nomic-classify,proximity,proposed,Working with other people and career growth,422
+nomic-classify,proximity,proposed,Portfolio and resume discussion,77
+nomic-classify,proximity,proposed,Feedback request,218
+nomic-classify,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",276
+nomic-classify,proximity,proposed,How to Freelance,71
+nomic-classify,proximity,proposed,Job search & hiring,359
+nomic-cluster,kmeans,clustered,cluster-0,197
+nomic-cluster,kmeans,clustered,cluster-1,295
+nomic-cluster,kmeans,clustered,cluster-2,277
+nomic-cluster,kmeans,clustered,cluster-3,133
+nomic-cluster,kmeans,clustered,cluster-4,243
+nomic-cluster,kmeans,clustered,cluster-5,177
+nomic-cluster,kmeans,clustered,cluster-6,202
+nomic-cluster,kmeans,clustered,cluster-7,301
+nomic-cluster,kmeans,clustered,cluster-8,18
+nomic-cluster,kmeans,clustered,cluster-9,154
+nomic-cluster,proximity,existing,Senior careers,110
+nomic-cluster,proximity,existing,"Articles, videos & educational resources",88
+nomic-cluster,proximity,existing,UX Strategy & Management,445
+nomic-cluster,proximity,existing,UX Writing,153
+nomic-cluster,proximity,existing,Tools & apps,250
+nomic-cluster,proximity,existing,UI Design,244
+nomic-cluster,proximity,existing,UX Research,158
+nomic-cluster,proximity,existing,UX Design,207
+nomic-cluster,proximity,existing,Junior careers,312
+nomic-cluster,proximity,proposed,"Articles, videos & educational resources",20
+nomic-cluster,proximity,proposed,How to do UI Design,156
+nomic-cluster,proximity,proposed,Examples and inspiration,260
+nomic-cluster,proximity,proposed,How to do Strategy & Research,68
+nomic-cluster,proximity,proposed,How to do IA & Content,28
+nomic-cluster,proximity,proposed,Working with other people and career growth,574
+nomic-cluster,proximity,proposed,Portfolio and resume discussion,68
+nomic-cluster,proximity,proposed,Feedback request,187
+nomic-cluster,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",268
+nomic-cluster,proximity,proposed,How to Freelance,44
+nomic-cluster,proximity,proposed,Job search & hiring,294
+nomic-doc,kmeans,clustered,cluster-0,82
+nomic-doc,kmeans,clustered,cluster-1,274
+nomic-doc,kmeans,clustered,cluster-2,254
+nomic-doc,kmeans,clustered,cluster-3,306
+nomic-doc,kmeans,clustered,cluster-4,239
+nomic-doc,kmeans,clustered,cluster-5,127
+nomic-doc,kmeans,clustered,cluster-6,18
+nomic-doc,kmeans,clustered,cluster-7,239
+nomic-doc,kmeans,clustered,cluster-8,253
+nomic-doc,kmeans,clustered,cluster-9,205
+nomic-doc,proximity,existing,Senior careers,97
+nomic-doc,proximity,existing,"Articles, videos & educational resources",80
+nomic-doc,proximity,existing,UX Strategy & Management,89
+nomic-doc,proximity,existing,UX Writing,59
+nomic-doc,proximity,existing,Tools & apps,596
+nomic-doc,proximity,existing,UI Design,129
+nomic-doc,proximity,existing,UX Research,95
+nomic-doc,proximity,existing,UX Design,206
+nomic-doc,proximity,existing,Junior careers,616
+nomic-doc,proximity,proposed,"Articles, videos & educational resources",50
+nomic-doc,proximity,proposed,How to do UI Design,82
+nomic-doc,proximity,proposed,Examples and inspiration,188
+nomic-doc,proximity,proposed,How to do Strategy & Research,33
+nomic-doc,proximity,proposed,How to do IA & Content,14
+nomic-doc,proximity,proposed,Working with other people and career growth,447
+nomic-doc,proximity,proposed,Portfolio and resume discussion,79
+nomic-doc,proximity,proposed,Feedback request,412
+nomic-doc,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",242
+nomic-doc,proximity,proposed,How to Freelance,37
+nomic-doc,proximity,proposed,Job search & hiring,383
+nomic-query,kmeans,clustered,cluster-0,157
+nomic-query,kmeans,clustered,cluster-1,175
+nomic-query,kmeans,clustered,cluster-2,308
+nomic-query,kmeans,clustered,cluster-3,87
+nomic-query,kmeans,clustered,cluster-4,132
+nomic-query,kmeans,clustered,cluster-5,120
+nomic-query,kmeans,clustered,cluster-6,186
+nomic-query,kmeans,clustered,cluster-7,245
+nomic-query,kmeans,clustered,cluster-8,292
+nomic-query,kmeans,clustered,cluster-9,295
+nomic-query,proximity,existing,Senior careers,101
+nomic-query,proximity,existing,"Articles, videos & educational resources",79
+nomic-query,proximity,existing,UX Strategy & Management,157
+nomic-query,proximity,existing,UX Writing,120
+nomic-query,proximity,existing,Tools & apps,320
+nomic-query,proximity,existing,UI Design,402
+nomic-query,proximity,existing,UX Research,114
+nomic-query,proximity,existing,UX Design,196
+nomic-query,proximity,existing,Junior careers,478
+nomic-query,proximity,proposed,"Articles, videos & educational resources",54
+nomic-query,proximity,proposed,How to do UI Design,137
+nomic-query,proximity,proposed,Examples and inspiration,212
+nomic-query,proximity,proposed,How to do Strategy & Research,46
+nomic-query,proximity,proposed,How to do IA & Content,14
+nomic-query,proximity,proposed,Working with other people and career growth,476
+nomic-query,proximity,proposed,Portfolio and resume discussion,58
+nomic-query,proximity,proposed,Feedback request,279
+nomic-query,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",208
+nomic-query,proximity,proposed,How to Freelance,40
+nomic-query,proximity,proposed,Job search & hiring,443
+oai-text-large,kmeans,clustered,cluster-0,139
+oai-text-large,kmeans,clustered,cluster-1,257
+oai-text-large,kmeans,clustered,cluster-2,233
+oai-text-large,kmeans,clustered,cluster-3,245
+oai-text-large,kmeans,clustered,cluster-4,135
+oai-text-large,kmeans,clustered,cluster-5,226
+oai-text-large,kmeans,clustered,cluster-6,137
+oai-text-large,kmeans,clustered,cluster-7,167
+oai-text-large,kmeans,clustered,cluster-8,196
+oai-text-large,kmeans,clustered,cluster-9,262
+oai-text-large,proximity,existing,Senior careers,184
+oai-text-large,proximity,existing,"Articles, videos & educational resources",45
+oai-text-large,proximity,existing,UX Strategy & Management,229
+oai-text-large,proximity,existing,UX Writing,142
+oai-text-large,proximity,existing,Tools & apps,308
+oai-text-large,proximity,existing,UI Design,219
+oai-text-large,proximity,existing,UX Research,77
+oai-text-large,proximity,existing,UX Design,173
+oai-text-large,proximity,existing,Junior careers,590
+oai-text-large,proximity,proposed,"Articles, videos & educational resources",11
+oai-text-large,proximity,proposed,How to do UI Design,171
+oai-text-large,proximity,proposed,Examples and inspiration,96
+oai-text-large,proximity,proposed,How to do Strategy & Research,105
+oai-text-large,proximity,proposed,How to do IA & Content,36
+oai-text-large,proximity,proposed,Working with other people and career growth,332
+oai-text-large,proximity,proposed,Portfolio and resume discussion,128
+oai-text-large,proximity,proposed,Feedback request,360
+oai-text-large,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",187
+oai-text-large,proximity,proposed,How to Freelance,42
+oai-text-large,proximity,proposed,Job search & hiring,499
+oai-text-mini,kmeans,clustered,cluster-0,247
+oai-text-mini,kmeans,clustered,cluster-1,179
+oai-text-mini,kmeans,clustered,cluster-2,152
+oai-text-mini,kmeans,clustered,cluster-3,114
+oai-text-mini,kmeans,clustered,cluster-4,163
+oai-text-mini,kmeans,clustered,cluster-5,117
+oai-text-mini,kmeans,clustered,cluster-6,242
+oai-text-mini,kmeans,clustered,cluster-7,189
+oai-text-mini,kmeans,clustered,cluster-8,216
+oai-text-mini,kmeans,clustered,cluster-9,378
+oai-text-mini,proximity,existing,Senior careers,609
+oai-text-mini,proximity,existing,"Articles, videos & educational resources",67
+oai-text-mini,proximity,existing,UX Strategy & Management,62
+oai-text-mini,proximity,existing,UX Writing,220
+oai-text-mini,proximity,existing,Tools & apps,289
+oai-text-mini,proximity,existing,UI Design,113
+oai-text-mini,proximity,existing,UX Research,39
+oai-text-mini,proximity,existing,UX Design,340
+oai-text-mini,proximity,existing,Junior careers,228
+oai-text-mini,proximity,proposed,"Articles, videos & educational resources",21
+oai-text-mini,proximity,proposed,How to do UI Design,145
+oai-text-mini,proximity,proposed,Examples and inspiration,140
+oai-text-mini,proximity,proposed,How to do Strategy & Research,54
+oai-text-mini,proximity,proposed,How to do IA & Content,15
+oai-text-mini,proximity,proposed,Working with other people and career growth,329
+oai-text-mini,proximity,proposed,Portfolio and resume discussion,112
+oai-text-mini,proximity,proposed,Feedback request,503
+oai-text-mini,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",173
+oai-text-mini,proximity,proposed,How to Freelance,37
+oai-text-mini,proximity,proposed,Job search & hiring,438
+paraphrase,kmeans,clustered,cluster-0,192
+paraphrase,kmeans,clustered,cluster-1,267
+paraphrase,kmeans,clustered,cluster-2,126
+paraphrase,kmeans,clustered,cluster-3,145
+paraphrase,kmeans,clustered,cluster-4,200
+paraphrase,kmeans,clustered,cluster-5,279
+paraphrase,kmeans,clustered,cluster-6,206
+paraphrase,kmeans,clustered,cluster-7,239
+paraphrase,kmeans,clustered,cluster-8,318
+paraphrase,kmeans,clustered,cluster-9,25
+paraphrase,proximity,existing,Senior careers,260
+paraphrase,proximity,existing,"Articles, videos & educational resources",87
+paraphrase,proximity,existing,UX Strategy & Management,245
+paraphrase,proximity,existing,UX Writing,136
+paraphrase,proximity,existing,Tools & apps,115
+paraphrase,proximity,existing,UI Design,242
+paraphrase,proximity,existing,UX Research,351
+paraphrase,proximity,existing,UX Design,387
+paraphrase,proximity,existing,Junior careers,144
+paraphrase,proximity,proposed,"Articles, videos & educational resources",41
+paraphrase,proximity,proposed,How to do UI Design,309
+paraphrase,proximity,proposed,Examples and inspiration,68
+paraphrase,proximity,proposed,How to do Strategy & Research,205
+paraphrase,proximity,proposed,How to do IA & Content,54
+paraphrase,proximity,proposed,Working with other people and career growth,351
+paraphrase,proximity,proposed,Portfolio and resume discussion,37
+paraphrase,proximity,proposed,Feedback request,420
+paraphrase,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",140
+paraphrase,proximity,proposed,How to Freelance,56
+paraphrase,proximity,proposed,Job search & hiring,286
+phi35,kmeans,clustered,cluster-0,389
+phi35,kmeans,clustered,cluster-1,468
+phi35,kmeans,clustered,cluster-2,297
+phi35,kmeans,clustered,cluster-3,266
+phi35,kmeans,clustered,cluster-4,18
+phi35,kmeans,clustered,cluster-5,160
+phi35,kmeans,clustered,cluster-6,88
+phi35,kmeans,clustered,cluster-7,15
+phi35,kmeans,clustered,cluster-8,145
+phi35,kmeans,clustered,cluster-9,151
+phi35,prompted,existing,<none>,1253
+phi35,prompted,existing,Senior careers,45
+phi35,prompted,existing,"Articles, videos & educational resources",58
+phi35,prompted,existing,UX Strategy & Management,13
+phi35,prompted,existing,UX Writing,14
+phi35,prompted,existing,Tools & apps,29
+phi35,prompted,existing,UI Design,51
+phi35,prompted,existing,UX Research,254
+phi35,prompted,existing,UX Design,170
+phi35,prompted,existing,Junior careers,80
+phi35,prompted,proposed,<none>,1253
+phi35,prompted,proposed,Senior careers,45
+phi35,prompted,proposed,"Articles, videos & educational resources",58
+phi35,prompted,proposed,UX Strategy & Management,13
+phi35,prompted,proposed,UX Writing,14
+phi35,prompted,proposed,Tools & apps,29
+phi35,prompted,proposed,UI Design,51
+phi35,prompted,proposed,UX Research,254
+phi35,prompted,proposed,UX Design,170
+phi35,prompted,proposed,Junior careers,80
+phi35,proximity,existing,UX Strategy & Management,2
+phi35,proximity,existing,UX Writing,29
+phi35,proximity,existing,Tools & apps,1
+phi35,proximity,existing,UI Design,20
+phi35,proximity,existing,UX Research,1
+phi35,proximity,existing,UX Design,195
+phi35,proximity,existing,Junior careers,1719
+phi35,proximity,proposed,"Articles, videos & educational resources",51
+phi35,proximity,proposed,How to do UI Design,111
+phi35,proximity,proposed,Examples and inspiration,513
+phi35,proximity,proposed,How to do Strategy & Research,47
+phi35,proximity,proposed,Working with other people and career growth,7
+phi35,proximity,proposed,Portfolio and resume discussion,6
+phi35,proximity,proposed,Feedback request,647
+phi35,proximity,proposed,Job search & hiring,585
+qwen25,kmeans,clustered,cluster-0,35
+qwen25,kmeans,clustered,cluster-1,234
+qwen25,kmeans,clustered,cluster-2,513
+qwen25,kmeans,clustered,cluster-3,250
+qwen25,kmeans,clustered,cluster-4,74
+qwen25,kmeans,clustered,cluster-5,431
+qwen25,kmeans,clustered,cluster-6,53
+qwen25,kmeans,clustered,cluster-7,130
+qwen25,kmeans,clustered,cluster-8,148
+qwen25,kmeans,clustered,cluster-9,129
+qwen25,prompted,existing,<none>,497
+qwen25,prompted,existing,Senior careers,135
+qwen25,prompted,existing,"Articles, videos & educational resources",2
+qwen25,prompted,existing,Tools & apps,38
+qwen25,prompted,existing,UX Research,26
+qwen25,prompted,existing,UX Design,27
+qwen25,prompted,existing,Junior careers,1242
+qwen25,prompted,proposed,<none>,497
+qwen25,prompted,proposed,Senior careers,135
+qwen25,prompted,proposed,"Articles, videos & educational resources",2
+qwen25,prompted,proposed,Tools & apps,38
+qwen25,prompted,proposed,UX Research,26
+qwen25,prompted,proposed,UX Design,27
+qwen25,prompted,proposed,Junior careers,1242
+qwen25,proximity,existing,Senior careers,15
+qwen25,proximity,existing,"Articles, videos & educational resources",1
+qwen25,proximity,existing,UX Strategy & Management,296
+qwen25,proximity,existing,UX Writing,19
+qwen25,proximity,existing,Tools & apps,857
+qwen25,proximity,existing,UI Design,49
+qwen25,proximity,existing,UX Research,11
+qwen25,proximity,existing,UX Design,133
+qwen25,proximity,existing,Junior careers,586
+qwen25,proximity,proposed,"Articles, videos & educational resources",20
+qwen25,proximity,proposed,How to do UI Design,232
+qwen25,proximity,proposed,Examples and inspiration,649
+qwen25,proximity,proposed,How to do Strategy & Research,45
+qwen25,proximity,proposed,How to do IA & Content,54
+qwen25,proximity,proposed,Working with other people and career growth,328
+qwen25,proximity,proposed,Portfolio and resume discussion,40
+qwen25,proximity,proposed,Feedback request,351
+qwen25,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",220
+qwen25,proximity,proposed,How to Freelance,10
+qwen25,proximity,proposed,Job search & hiring,18
+qwen25-mini,kmeans,clustered,cluster-0,123
+qwen25-mini,kmeans,clustered,cluster-1,410
+qwen25-mini,kmeans,clustered,cluster-2,66
+qwen25-mini,kmeans,clustered,cluster-3,229
+qwen25-mini,kmeans,clustered,cluster-4,475
+qwen25-mini,kmeans,clustered,cluster-5,129
+qwen25-mini,kmeans,clustered,cluster-6,216
+qwen25-mini,kmeans,clustered,cluster-7,120
+qwen25-mini,kmeans,clustered,cluster-8,37
+qwen25-mini,kmeans,clustered,cluster-9,192
+qwen25-mini,prompted,existing,<none>,1940
+qwen25-mini,prompted,existing,Senior careers,5
+qwen25-mini,prompted,existing,"Articles, videos & educational resources",17
+qwen25-mini,prompted,existing,UX Design,5
+qwen25-mini,prompted,proposed,<none>,1940
+qwen25-mini,prompted,proposed,Senior careers,5
+qwen25-mini,prompted,proposed,"Articles, videos & educational resources",17
+qwen25-mini,prompted,proposed,UX Design,5
+qwen25-mini,proximity,existing,Senior careers,11
+qwen25-mini,proximity,existing,"Articles, videos & educational resources",33
+qwen25-mini,proximity,existing,UX Strategy & Management,63
+qwen25-mini,proximity,existing,UX Writing,667
+qwen25-mini,proximity,existing,Tools & apps,1161
+qwen25-mini,proximity,existing,UI Design,1
+qwen25-mini,proximity,existing,UX Research,9
+qwen25-mini,proximity,existing,UX Design,17
+qwen25-mini,proximity,existing,Junior careers,5
+qwen25-mini,proximity,proposed,"Articles, videos & educational resources",275
+qwen25-mini,proximity,proposed,How to do UI Design,31
+qwen25-mini,proximity,proposed,Examples and inspiration,101
+qwen25-mini,proximity,proposed,How to do Strategy & Research,86
+qwen25-mini,proximity,proposed,How to do IA & Content,83
+qwen25-mini,proximity,proposed,Working with other people and career growth,165
+qwen25-mini,proximity,proposed,Portfolio and resume discussion,64
+qwen25-mini,proximity,proposed,Feedback request,191
+qwen25-mini,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",614
+qwen25-mini,proximity,proposed,How to Freelance,30
+qwen25-mini,proximity,proposed,Job search & hiring,327
+smollm-mini,kmeans,clustered,cluster-0,607
+smollm-mini,kmeans,clustered,cluster-1,74
+smollm-mini,kmeans,clustered,cluster-2,181
+smollm-mini,kmeans,clustered,cluster-3,43
+smollm-mini,kmeans,clustered,cluster-4,187
+smollm-mini,kmeans,clustered,cluster-5,311
+smollm-mini,kmeans,clustered,cluster-6,358
+smollm-mini,kmeans,clustered,cluster-7,99
+smollm-mini,kmeans,clustered,cluster-8,76
+smollm-mini,kmeans,clustered,cluster-9,61
+smollm-mini,proximity,existing,Senior careers,17
+smollm-mini,proximity,existing,"Articles, videos & educational resources",619
+smollm-mini,proximity,existing,UX Strategy & Management,8
+smollm-mini,proximity,existing,UX Writing,149
+smollm-mini,proximity,existing,Tools & apps,992
+smollm-mini,proximity,existing,UI Design,6
+smollm-mini,proximity,existing,UX Research,136
+smollm-mini,proximity,existing,UX Design,9
+smollm-mini,proximity,existing,Junior careers,31
+smollm-mini,proximity,proposed,"Articles, videos & educational resources",775
+smollm-mini,proximity,proposed,How to do UI Design,79
+smollm-mini,proximity,proposed,Examples and inspiration,527
+smollm-mini,proximity,proposed,How to do Strategy & Research,5
+smollm-mini,proximity,proposed,How to do IA & Content,181
+smollm-mini,proximity,proposed,Working with other people and career growth,288
+smollm-mini,proximity,proposed,Portfolio and resume discussion,22
+smollm-mini,proximity,proposed,Feedback request,42
+smollm-mini,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",25
+smollm-mini,proximity,proposed,How to Freelance,4
+smollm-mini,proximity,proposed,Job search & hiring,19
+snowflake,kmeans,clustered,cluster-0,172
+snowflake,kmeans,clustered,cluster-1,225
+snowflake,kmeans,clustered,cluster-2,195
+snowflake,kmeans,clustered,cluster-3,154
+snowflake,kmeans,clustered,cluster-4,182
+snowflake,kmeans,clustered,cluster-5,113
+snowflake,kmeans,clustered,cluster-6,241
+snowflake,kmeans,clustered,cluster-7,282
+snowflake,kmeans,clustered,cluster-8,155
+snowflake,kmeans,clustered,cluster-9,278
+snowflake,proximity,existing,Senior careers,336
+snowflake,proximity,existing,"Articles, videos & educational resources",130
+snowflake,proximity,existing,UX Strategy & Management,211
+snowflake,proximity,existing,UX Writing,38
+snowflake,proximity,existing,Tools & apps,308
+snowflake,proximity,existing,UI Design,127
+snowflake,proximity,existing,UX Research,83
+snowflake,proximity,existing,UX Design,263
+snowflake,proximity,existing,Junior careers,471
+snowflake,proximity,proposed,"Articles, videos & educational resources",117
+snowflake,proximity,proposed,How to do UI Design,288
+snowflake,proximity,proposed,Examples and inspiration,43
+snowflake,proximity,proposed,How to do Strategy & Research,74
+snowflake,proximity,proposed,How to do IA & Content,28
+snowflake,proximity,proposed,Working with other people and career growth,140
+snowflake,proximity,proposed,Portfolio and resume discussion,58
+snowflake,proximity,proposed,Feedback request,580
+snowflake,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",102
+snowflake,proximity,proposed,How to Freelance,46
+snowflake,proximity,proposed,Job search & hiring,491
+snowflake-mini,kmeans,clustered,cluster-0,242
+snowflake-mini,kmeans,clustered,cluster-1,113
+snowflake-mini,kmeans,clustered,cluster-2,170
+snowflake-mini,kmeans,clustered,cluster-3,294
+snowflake-mini,kmeans,clustered,cluster-4,285
+snowflake-mini,kmeans,clustered,cluster-5,144
+snowflake-mini,kmeans,clustered,cluster-6,190
+snowflake-mini,kmeans,clustered,cluster-7,211
+snowflake-mini,kmeans,clustered,cluster-8,158
+snowflake-mini,kmeans,clustered,cluster-9,190
+snowflake-mini,proximity,existing,Senior careers,313
+snowflake-mini,proximity,existing,"Articles, videos & educational resources",657
+snowflake-mini,proximity,existing,UX Strategy & Management,138
+snowflake-mini,proximity,existing,UX Writing,45
+snowflake-mini,proximity,existing,Tools & apps,276
+snowflake-mini,proximity,existing,UI Design,182
+snowflake-mini,proximity,existing,UX Research,70
+snowflake-mini,proximity,existing,UX Design,174
+snowflake-mini,proximity,existing,Junior careers,112
+snowflake-mini,proximity,proposed,"Articles, videos & educational resources",21
+snowflake-mini,proximity,proposed,How to do UI Design,430
+snowflake-mini,proximity,proposed,Examples and inspiration,142
+snowflake-mini,proximity,proposed,How to do Strategy & Research,281
+snowflake-mini,proximity,proposed,How to do IA & Content,34
+snowflake-mini,proximity,proposed,Working with other people and career growth,223
+snowflake-mini,proximity,proposed,Portfolio and resume discussion,49
+snowflake-mini,proximity,proposed,Feedback request,91
+snowflake-mini,proximity,proposed,"Tools, Apps, Fonts, Plugins, AI",193
+snowflake-mini,proximity,proposed,How to Freelance,140
+snowflake-mini,proximity,proposed,Job search & hiring,363
