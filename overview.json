@@ -3,6 +3,13 @@
     "labelGroup" : "existing",
     "model" : "gemma2",
     "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "224"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "gemma2",
+    "technique" : "prompted",
     "label" : "Senior careers",
     "total" : "115"
   },
@@ -66,6 +73,13 @@
     "labelGroup" : "proposed",
     "model" : "gemma2",
     "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "224"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "gemma2",
+    "technique" : "prompted",
     "label" : "Senior careers",
     "total" : "115"
   },
@@ -129,6 +143,13 @@
     "labelGroup" : "existing",
     "model" : "gemma2-mini",
     "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "83"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "gemma2-mini",
+    "technique" : "prompted",
     "label" : "Senior careers",
     "total" : "96"
   },
@@ -185,6 +206,13 @@
     "labelGroup" : "proposed",
     "model" : "gemma2-mini",
     "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "83"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "gemma2-mini",
+    "technique" : "prompted",
     "label" : "Senior careers",
     "total" : "96"
   },
@@ -236,6 +264,76 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "49"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "182"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "134"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "150"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "206"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "248"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "215"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "195"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "212"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "247"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "google-text",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "208"
   },
   {
     "labelGroup" : "existing",
@@ -381,6 +479,13 @@
     "labelGroup" : "existing",
     "model" : "gpt-4o",
     "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "256"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "gpt-4o",
+    "technique" : "prompted",
     "label" : "Senior careers",
     "total" : "239"
   },
@@ -444,6 +549,13 @@
     "labelGroup" : "proposed",
     "model" : "gpt-4o",
     "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "256"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "gpt-4o",
+    "technique" : "prompted",
     "label" : "Senior careers",
     "total" : "239"
   },
@@ -502,6 +614,13 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "187"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "gpt-4o-mini",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "492"
   },
   {
     "labelGroup" : "existing",
@@ -570,6 +689,13 @@
     "labelGroup" : "proposed",
     "model" : "gpt-4o-mini",
     "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "492"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "gpt-4o-mini",
+    "technique" : "prompted",
     "label" : "Senior careers",
     "total" : "372"
   },
@@ -628,6 +754,83 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "104"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "313"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "136"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "197"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "192"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "364"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "117"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "73"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "97"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "368"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "hermes3-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "140"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "hermes3-mini",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "461"
   },
   {
     "labelGroup" : "existing",
@@ -691,6 +894,13 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "21"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "hermes3-mini",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "461"
   },
   {
     "labelGroup" : "proposed",
@@ -899,8 +1109,29 @@
     "labelGroup" : "existing",
     "model" : "human",
     "technique" : "human",
+    "label" : "Answers from seniors only",
+    "total" : "116"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "human",
+    "technique" : "human",
     "label" : "Articles, videos & educational resources",
     "total" : "134"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "human",
+    "technique" : "human",
+    "label" : "Mod Announcement",
+    "total" : "3"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "human",
+    "technique" : "human",
+    "label" : "Sub policies",
+    "total" : "7"
   },
   {
     "labelGroup" : "existing",
@@ -955,6 +1186,13 @@
     "labelGroup" : "proposed",
     "model" : "human",
     "technique" : "human",
+    "label" : "School or Entry-Level Question",
+    "total" : "1"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "human",
+    "technique" : "human",
     "label" : "Feedback request",
     "total" : "13"
   },
@@ -964,6 +1202,83 @@
     "technique" : "human",
     "label" : "Job search & hiring",
     "total" : "41"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "3"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "459"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "131"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "399"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "231"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "117"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "87"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "424"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "50"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "96"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "llama31",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "69"
   },
   {
     "labelGroup" : "existing",
@@ -1027,6 +1342,13 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "158"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "llama31",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "69"
   },
   {
     "labelGroup" : "proposed",
@@ -1218,6 +1540,83 @@
     "total" : "416"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "184"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "326"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "46"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "138"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "188"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "135"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "397"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "385"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "104"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama31-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "94"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "llama31-mini",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "133"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "llama31-mini",
     "technique" : "prompted",
@@ -1279,6 +1678,13 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "89"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "llama31-mini",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "133"
   },
   {
     "labelGroup" : "proposed",
@@ -1477,6 +1883,83 @@
     "total" : "275"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "105"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "396"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "242"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "334"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "241"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "185"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "158"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "43"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "148"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-micro",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "145"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "llama32-micro",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "32"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "llama32-micro",
     "technique" : "prompted",
@@ -1510,6 +1993,13 @@
     "technique" : "prompted",
     "label" : "UX Design",
     "total" : "1869"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "llama32-micro",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "32"
   },
   {
     "labelGroup" : "proposed",
@@ -1687,6 +2177,90 @@
     "total" : "72"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "5"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "388"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "138"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "321"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "43"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "240"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "144"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "404"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "120"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "llama32-nano",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "194"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "llama32-nano",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "1967"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "llama32-nano",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "1967"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "llama32-nano",
     "technique" : "proximity",
@@ -1811,6 +2385,76 @@
     "technique" : "proximity",
     "label" : "Job search & hiring",
     "total" : "2"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "153"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "256"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "284"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "220"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "170"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "275"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "150"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "103"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "250"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "136"
   },
   {
     "labelGroup" : "existing",
@@ -1953,6 +2597,76 @@
     "total" : "378"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "300"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "214"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "151"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "188"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "195"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "188"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "303"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "181"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "133"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "mxbai-query",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "144"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "mxbai-query",
     "technique" : "proximity",
@@ -2091,6 +2805,76 @@
     "technique" : "proximity",
     "label" : "Job search & hiring",
     "total" : "395"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "208"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "186"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "168"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "237"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "216"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "233"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "263"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "259"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "117"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-classify",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "110"
   },
   {
     "labelGroup" : "existing",
@@ -2233,6 +3017,76 @@
     "total" : "359"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "197"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "295"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "277"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "133"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "243"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "177"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "202"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "301"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "18"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-cluster",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "154"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "nomic-cluster",
     "technique" : "proximity",
@@ -2371,6 +3225,76 @@
     "technique" : "proximity",
     "label" : "Job search & hiring",
     "total" : "294"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "82"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "274"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "254"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "306"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "239"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "127"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "18"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "239"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "253"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-doc",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "205"
   },
   {
     "labelGroup" : "existing",
@@ -2513,6 +3437,76 @@
     "total" : "383"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "157"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "175"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "308"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "87"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "132"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "120"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "186"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "245"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "292"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "nomic-query",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "295"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "nomic-query",
     "technique" : "proximity",
@@ -2651,6 +3645,76 @@
     "technique" : "proximity",
     "label" : "Job search & hiring",
     "total" : "443"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "139"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "257"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "233"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "245"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "135"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "226"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "137"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "167"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "196"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-large",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "262"
   },
   {
     "labelGroup" : "existing",
@@ -2793,6 +3857,76 @@
     "total" : "499"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "247"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "179"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "152"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "114"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "163"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "117"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "242"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "189"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "216"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "oai-text-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "378"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "oai-text-mini",
     "technique" : "proximity",
@@ -2931,6 +4065,76 @@
     "technique" : "proximity",
     "label" : "Job search & hiring",
     "total" : "438"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "192"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "267"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "126"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "145"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "200"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "279"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "206"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "239"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "318"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "paraphrase",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "25"
   },
   {
     "labelGroup" : "existing",
@@ -3073,6 +4277,83 @@
     "total" : "286"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "389"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "468"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "297"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "266"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "18"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "160"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "88"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "15"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "145"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "phi35",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "151"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "phi35",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "1253"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "phi35",
     "technique" : "prompted",
@@ -3134,6 +4415,13 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "80"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "phi35",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "1253"
   },
   {
     "labelGroup" : "proposed",
@@ -3304,6 +4592,83 @@
     "total" : "585"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "35"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "234"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "513"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "250"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "74"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "431"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "53"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "130"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "148"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "129"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "qwen25",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "497"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "qwen25",
     "technique" : "prompted",
@@ -3344,6 +4709,13 @@
     "technique" : "prompted",
     "label" : "Junior careers",
     "total" : "1242"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "qwen25",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "497"
   },
   {
     "labelGroup" : "proposed",
@@ -3528,6 +4900,83 @@
     "total" : "18"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "123"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "410"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "66"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "229"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "475"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "129"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "216"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "120"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "37"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "qwen25-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "192"
+  },
+  {
+    "labelGroup" : "existing",
+    "model" : "qwen25-mini",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "1940"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "qwen25-mini",
     "technique" : "prompted",
@@ -3547,6 +4996,13 @@
     "technique" : "prompted",
     "label" : "UX Design",
     "total" : "5"
+  },
+  {
+    "labelGroup" : "proposed",
+    "model" : "qwen25-mini",
+    "technique" : "prompted",
+    "label" : "<none>",
+    "total" : "1940"
   },
   {
     "labelGroup" : "proposed",
@@ -3710,6 +5166,76 @@
     "total" : "327"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "607"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "74"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "181"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "43"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "187"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "311"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "358"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "99"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "76"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "smollm-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "61"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "smollm-mini",
     "technique" : "proximity",
@@ -3850,6 +5376,76 @@
     "total" : "19"
   },
   {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "172"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "225"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "195"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "154"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "182"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "113"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "241"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "282"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "155"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "278"
+  },
+  {
     "labelGroup" : "existing",
     "model" : "snowflake",
     "technique" : "proximity",
@@ -3988,6 +5584,76 @@
     "technique" : "proximity",
     "label" : "Job search & hiring",
     "total" : "491"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-0",
+    "total" : "242"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-1",
+    "total" : "113"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-2",
+    "total" : "170"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-3",
+    "total" : "294"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-4",
+    "total" : "285"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-5",
+    "total" : "144"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-6",
+    "total" : "190"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-7",
+    "total" : "211"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-8",
+    "total" : "158"
+  },
+  {
+    "labelGroup" : "clustered",
+    "model" : "snowflake-mini",
+    "technique" : "kmeans",
+    "label" : "cluster-9",
+    "total" : "190"
   },
   {
     "labelGroup" : "existing",
